@@ -1,0 +1,42 @@
+body{
+    color: #231f20;
+    font-size: 36px;
+}
+.invite{
+    background-color: white;
+    margin: 20px auto;
+    padding: 40px;
+    text-align: center;
+    width: 870px;
+}
+h2{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+.text{
+    font-family: 'Mukta', sans-serif;
+    margin-bottom: 25px;
+    font-size: 24px;
+    
+}
+.invite .button .email{
+    margin-bottom: 16px;
+    background-color: #fff;
+    font-size: 17px;
+    padding: 20px 10px;
+    width: 360px;
+    border: white;
+    border-radius: 10px;
+}
+.invite .button .but{
+    font-weight: 700;
+    background-color: #70cbce;
+    color: #fff;
+    height: 60px;
+    min-height: 60px;
+    padding: 0 30px;
+    border: #70cbce;
+    border-radius: 10px;
+}
+
